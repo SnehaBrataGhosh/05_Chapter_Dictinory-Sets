@@ -1,0 +1,21 @@
+# This program inputs and print 8 numbers Using set
+
+
+s=set()
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+n=int(input("Enter a number : "))
+s.add(n)
+print(s)

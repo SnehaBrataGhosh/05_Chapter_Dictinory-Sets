@@ -1,0 +1,15 @@
+# Proof that a dictionary will not take same keys but can take same values
+d={}
+F=input("Enter your name: ")
+L=input("Enter your favorite computer language: ")
+d.update({F:L})
+F=input("Enter your name: ")
+L=input("Enter your favorite computer language: ")
+d.update({F:L})
+F=input("Enter your name: ")
+L=input("Enter your favorite computer language: ")
+d.update({F:L})
+F=input("Enter your name: ")
+L=input("Enter your favorite computer language: ")
+d.update({F:L})
+print(d)
