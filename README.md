@@ -15,7 +15,7 @@ Concepts Covered
 Code Highlights
 - A dictionary “methods” script that creates multiple dicts and demonstrates common operations
 - A set “methods” script showing several creation patterns and in-place update methods
-- A set operations demo using |, &, -, ^ and relationship checks
+- A set o.perations demo using |, &, -, ^ and relationship checks
 - Practice exercises:
   - Simple Hindi-to-English word lookup using a dictionary
   - Taking 8 numbers from the user and storing them in a set to keep unique values
