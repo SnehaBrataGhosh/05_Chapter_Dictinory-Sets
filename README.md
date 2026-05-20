@@ -26,6 +26,7 @@ Code Highlights
 Learning Outcome
 I learned how dictionaries store key/value pairs and how sets help when I need unique items. I also practiced common operations used in scripting, like quick lookups and removing duplicates.
 
+
 Notes
 - The word-meaning script uses direct indexing (w[a]); if the key is missing it will raise an error. Using w.get(a) with a fallback message would be safer.
 - The “dictionary duplicate keys” examples show that later updates overwrite earlier entries when the same name/key is entered again.
